@@ -6,7 +6,7 @@ We want to visualize the August Citibike data to show its relationship with the 
 ([LINK GOES HERE](https://public.tableau.com/app/profile/winny8874/viz/citibike_16435931161590/Story1?publish=yes))
 >
 ## Results:
-Using the visualizations you have in your Tableau Story to describe the results of each visualization underneath the image.
+Using the visualizations in the Tableau Story to describe the results of each visualization underneath the image.
 ##### <Fig.1 Time of Trip by Gender >
 ![ trip_vs_gender](https://github.com/WeiTing83/NYC_Citibike_analysis2/blob/main/image/trip_vs_gender.png )
 + Women's total trips are around 588431times in August, 2019
