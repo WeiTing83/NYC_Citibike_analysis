@@ -31,5 +31,5 @@ Using the visualizations in the Tableau Story to describe the results of each vi
 ![ PopularArea](https://github.com/WeiTing83/NYC_Citibike_analysis2/blob/main/image/PopularArea.png )
 + The bikes are used frequently at some area.
 >
-## Summary: 
+## Summary:
 After analyzing the data, we notice the people who used bike mostly is male by gender. They use bike at 8-9am and 5-6pm during weekday. Thus, they probably use it as a transportation between work and home. Some of them use as subscribers. Additionally, according to the map, bikes are used frequently at some area. We can introduce number of bikes to let more people use them.
